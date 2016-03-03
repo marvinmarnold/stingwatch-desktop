@@ -1,6 +1,7 @@
 Meteor.methods({
   'stingwatch/desktop/start': function() {
-     runTshark();
-     runAirprobe();
+    console.log('stingwatch/desktop/start');
+    runTshark();
+    runAirprobe();
   },
 });

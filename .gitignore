@@ -1,2 +1,4 @@
 .meteor/local
 .meteor/meteorite
+run.sh
+package/meteor-device-id
