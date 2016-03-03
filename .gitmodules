@@ -1,0 +1,3 @@
+[submodule "packages/meteor-imsi-catcher-catcher"]
+	path = packages/meteor-imsi-catcher-catcher
+	url = https://github.com/marvinmarnold/meteor-imsi-catcher-catcher.git

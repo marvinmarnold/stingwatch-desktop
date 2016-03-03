@@ -1,5 +1,5 @@
 {
   "tsharkCMD": "tshark",
   "airprobeCMD": "airprobe_rtlsdr.py",
-  "airprobeFreq": 950
+  "airprobeFreq": 939.4
 }
